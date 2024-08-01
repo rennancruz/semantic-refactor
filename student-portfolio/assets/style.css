@@ -1,9 +1,15 @@
 .page {
-    background-color: rgba(0, 101, 119, 0.3);
+    background-color: rgba(0, 54, 63, 0.3);
 }
 
-.header {
+header {
     text-align: center;
+    position: fixed;
+    left: 0;
+    /* top: 30; */
+    top: 0;
+    width: 100%;
+    background-color: rgba(94, 94, 94, 0.3);
 }
 
 .student-name {
@@ -14,16 +20,17 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 170px;
 }
 
 .list-container {
     text-align: center;
 }
 
-.myUL {
+.list {
     display: inline-block;
     text-align: left;
+    margin-bottom: 20px;
 }
 
 .about {
@@ -43,5 +50,5 @@ footer {
     width: 100%;
     text-align: center;
     padding: 3px;
-    background-color: rgba(129, 129, 129, 0.3);
+    background-color: rgba(94, 94, 94, 0.3);
 }
