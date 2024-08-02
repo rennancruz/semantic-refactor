@@ -1,2 +1,7 @@
-# semantic-refactor
-WIP - My first repo
+# Bootcamp 2024 Semantic Refactor Repo
+
+## About this repo
+
+In this repository, you will find all of the work made towards the semantic refactor learnings. I've include the files that have been completed as part of this work below:
+
+- [Challenge 1](/Develop/index.html)
