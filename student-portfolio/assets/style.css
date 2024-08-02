@@ -20,6 +20,7 @@ header {
 
 .student-name {
   text-align: center;
+  padding: 15px;
 }
 
 .student-image {
@@ -28,7 +29,7 @@ header {
   margin-left: auto;
   margin-right: auto;
   background-position: center;
-  margin-top: 170px;
+  margin-top: 150px;
 }
 
 .list-container {
@@ -45,6 +46,14 @@ header {
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   margin: 75px;
+}
+
+.about h3 {
+  padding: 10px;
+}
+
+.about p {
+  padding: 5px;
 }
 
 footer {
