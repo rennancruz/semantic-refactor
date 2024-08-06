@@ -6,4 +6,4 @@ In this repository, I have worked towards becoming familiar with HTML and CSS. I
 
 - [Challenge 1](/index.html)
 
-![Semantic Refactor Website](./Develop/assets/images/01-html-css-git-homework-demo.png)
+![Semantic Refactor Website](./assets/images/01-html-css-git-homework-demo.png)
