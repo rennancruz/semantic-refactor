@@ -6,6 +6,4 @@ In this repository, you will find all of the work made towards the semantic refa
 
 - [Challenge 1](/Develop/index.html)
 
-Along with this work, I'm working with a personal project as I go. This is to help me practice on the side as well!
-
-- [Personal Portfolio Project](/student-portfolio/index-portfolio.html)
+![Semantic Refactor Website](./Develop/assets/images/01-html-css-git-homework-demo.png)
